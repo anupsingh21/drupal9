@@ -27,7 +27,7 @@
         "phar-io/version": "3.1.0",
         "phpdocumentor/reflection-common": "2.2.0",
         "phpdocumentor/reflection-docblock": "5.3.0",
-        "phpdocumentor/type-resolver": "1.5.1",
+        "phpdocumentor/type-resolver": "1.6.0",
         "phpspec/prophecy": "1.14.0",
         "phpunit/php-code-coverage": "7.0.15",
         "phpunit/php-file-iterator": "2.0.4",
